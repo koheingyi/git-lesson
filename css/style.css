@@ -1,26 +1,13 @@
-h1{
+h1,h3,h2{
     color: powderblue;
     border: 2px solid purple;
     width: 500px;
     text-align: center;
     background: beige;
 }
-h1:hover{
+h1,h2,h3:hover{
     background: crimson;
 }
-h1:active{
-    background: darkcyan;
-}
-h1{
-    color: powderblue;
-    border: 2px solid purple;
-    width: 500px;
-    text-align: center;
-    background: beige;
-}
-h1:hover{
-    background: crimson;
-}
-h1:active{
+h1,h2,h3:active{
     background: darkcyan;
 }
