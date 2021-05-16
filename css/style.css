@@ -1,4 +1,13 @@
 h1{
     color: powderblue;
     border: 2px solid purple;
+    width: 500px;
+    text-align: center;
+    background: beige;
+}
+h1:hover{
+    background: crimson;
+}
+h1:active{
+    background: darkcyan;
 }
