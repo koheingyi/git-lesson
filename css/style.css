@@ -11,3 +11,6 @@ h1,h2,h3:hover{
 h1,h2,h3:active{
     background: darkcyan;
 }
+label{
+    display: block;
+}
