@@ -1,2 +1,3 @@
-consolw.log("hello! Testing Git")
-console.log("hello")
+console.log("hello! Testing Git");
+console.log("hello");
+alert("Hello!")
